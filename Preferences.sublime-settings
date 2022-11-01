@@ -1,0 +1,13 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"update_check": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage",
+	],
+	"font_size": 14,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"theme": "Adaptive.sublime-theme",
+}

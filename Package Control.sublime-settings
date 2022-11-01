@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CiteBibtex",
+		"FileDiffs",
+		"LSP",
+		"LSP-R",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Origami",
+		"Package Control",
+		"R-IDE",
+		"SendCode",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-lintr",
+		"Terminus",
+		"TodoReview",
+		"WordCount",
+	],
+}

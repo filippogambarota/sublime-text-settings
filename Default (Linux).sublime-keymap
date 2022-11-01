@@ -1,0 +1,14 @@
+[
+	{
+	   "keys": ["control+alt+c"],
+	   "command": "insert_snippet",
+	   "args": {
+	    	"name": "Packages/User/rmd.sublime-snippet"
+	   },
+	   "context": [{
+	   		"key": "selector",
+    		"operator": "equal",
+    		"operand": "text.html.markdown.rmarkdown"
+    	}]
+	}
+]
